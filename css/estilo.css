@@ -5,8 +5,45 @@
     background-color: brown;
 }
 .espaço-baixo{
-    padding-top: 3%;
+    padding-top: 5%;
+    padding-left: 4.5%;
 }
 .joe{
     width: 100%;
+}
+.espaço-cima{
+    margin-top: 3%;
+}
+.espaço-titulo{
+    padding-top: 2%;
+}
+.cima{
+    padding-top: 1%;
+    padding-bottom: 2%;
+}
+.txt1{
+    padding-top: 1%;
+}
+section{
+    background-color: rgb(255, 241, 160); 
+    padding: 2%;
+    margin: 2%; 
+    border-radius: 7PX;
+}
+body{
+    background-color: brown;
+}
+.img-quadrinhos{
+    width: 100%;
+    text-align: center;
+}
+.color{
+    background-color: rgb(255, 250, 225);
+}
+.esquerda{
+    padding-left: 4.5%;
+}
+.meio-da-esquerda{
+    padding-left: 35%;
+    font-size: 129%;
 }
