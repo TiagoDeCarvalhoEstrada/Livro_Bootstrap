@@ -28,7 +28,8 @@ section{
     background-color: rgb(255, 241, 160); 
     padding: 2%;
     margin: 2%; 
-    border-radius: 7PX;
+    border-radius: 10PX;
+    box-shadow: 16px 16px 11px rgba(29, 29, 29, 0.39)
 }
 body{
     background-color: brown;
@@ -50,4 +51,8 @@ body{
 .footer{
     padding-left: 45%;
     font-size: 129%;
+}
+.card{
+    box-shadow: 15px 15px 10px rgba(36, 35, 35, 0.178);
+    border-radius: 15px;
 }
